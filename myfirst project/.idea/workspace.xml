@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d38d726e-1f37-4ad8-b99e-5973004f3316" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/ByteShortIntLong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/out/production/ByteShortIntLong/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortIntLong/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/out/production/CharAndBoolean/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateGmail/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateGmail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateGmail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateGmail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateGmail/CreateGmail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreateGmail/src/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingGmail/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingGmail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingGmail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingGmail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingGmail/CreatingGmail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CreatingGmail/src/Gmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/FloatAndDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/out/production/FloatAndDouble/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FloatAndDouble/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/.idea/libraries/commons_email_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/GenerateGmail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/out/production/GenerateGmail/Library/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/out/production/GenerateGmail/Test/SendGmail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/src/Library/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenerateGmail/src/Test/SendGmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/Java Training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Interview_Coding_Task_Solution/Array/find_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Interview_Coding_Task_Solution/LoopConcepts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Interview_Coding_Task_Solution/Numbers/odds_And_Evens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Interview_Coding_Task_Solution/String/frequency_Of_Chars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Interview_Coding_Task_Solution/WhileLoop_DoLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/ByteShortIntLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/CharAndBoolean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/FloatAndDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/KeywordsAndExpressions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/PrimitiveTypesChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/Udemy/String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/out/production/Java Training/com/Coding/freeShots/Scanner_Inputs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Interview_Coding_Task_Solution/Array/find_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Interview_Coding_Task_Solution/LoopConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Interview_Coding_Task_Solution/Numbers/odds_And_Evens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Interview_Coding_Task_Solution/String/frequency_Of_Chars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Interview_Coding_Task_Solution/WhileLoop_DoLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/ByteShortIntLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/CharAndBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/FloatAndDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/KeywordsAndExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/PrimitiveTypesChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/Udemy/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Training/src/com/Coding/freeShots/Scanner_Inputs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/out/production/Operators/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/out/production/Operators/com/company/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/src/com/company/Operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/out/production/PrimitiveTypesChallenge/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimitiveTypesChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/ReadTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/out/production/ReadTests/ReadFirstLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/src/FileReadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReadTests/src/ReadFirstLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/Replit_Practices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/AddNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/AlejandroII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Alejandro_I.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_CountEvens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Diving_132.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_FindNonDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_FindSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Find_Max_And_Min.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Finding_MaxLengthInStringArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_First_Last_CharII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_MakeLast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Print03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Print_First_LastChar_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Print_First_LastChar_II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Print_Shortest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Print_ShortestWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Printing_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Printing_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Reverse_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Reverse_Sentences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Split_Emails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Arrays_Split_Sentence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Assessment_Test3_ReverseAnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Assessment_Test3_StatusCodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Assessment_Test_4_IsSorted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/BuildARoute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/BurgerOrChicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/CaffeineOverDose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Calendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Car_Insurance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Cats_Dogs_Frequency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Citizens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/ConditionalStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Email2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Email_1_076.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Extract_Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/FindMidNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/FindUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Find_Cube.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/For_Loop1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/For_Loop_CountDown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/For_Loop_Even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/For_Loops_Vowel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Front_Piece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/GiftCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Group_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Group_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Group_Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Has_A_Java.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/HttpStatusCodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/IfStatement_Black_Jack_Keep_Hand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/IfStatement_Burger_Or_Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/IsPos_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/LaptopConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/LoopDivide3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Loop_0_100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Loop_Calculate_SumOfNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Loop_Draw_Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Loop_Draw_Rect_Outline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Loops_EvenFrom80_To_20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/META-INF/Replit_Practices.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Medhods_Reverse_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Merge_Them.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/MethodWReturn8_ValidateTask175.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Method_15_UniqueWords160.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Method_7_Plus_Minus_152.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Method_With_Return1_163.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Methods5_SimplePrintPattern150.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Methods8_Split_Person_Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/MethodsWString11_ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/MethodsWString13_FindErrorString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/MethodsWString_ExtractNumberFromString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Methods_6_Signum_151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Methods_TimeConversion_157.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/MiddleOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/MiddleThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/OnlineBookMerchants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Parse_HTML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/PatientInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/PhoneNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Primitives_1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/PrintHalfTwice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/PrintTheLongestWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/PrintVariables_1_2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Print_First_And_Last_Letters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Print_Letters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Print_Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/QuizQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Real_Estate_Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/ReverseIt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/SchoolGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/SecondsConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/ShoppingList_1_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Simple_Calculator_Methods1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Slice_Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/SmsMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/StringCharAt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/StringIndexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/StringLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/StringNoEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/String_NoEnd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/String_SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Switch_Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Tip_Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/VehicleRecall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/VendingMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Verify_Contains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/VideoGames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/WeekDays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/WhithoutX_x.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/WordCount_181.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Zombie_Attack1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/Zombie_Attack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/arrays_Count_Evens_116.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/average_Temp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/countJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/count_Hi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/equals_Java_Python.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/get_Sandwich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/prefix_Again_99.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/printVowels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/repeated_Separator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/utopianTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/out/production/Replit_Practices/vehicleRecalls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/AddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/AlejandroII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Alejandro_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_CountEvens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Diving_132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_FindNonDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_FindSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Find_Max_And_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Finding_MaxLengthInStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_First_Last_CharII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_MakeLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Print03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Print_First_LastChar_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Print_First_LastChar_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Print_Shortest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Print_ShortestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Printing_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Printing_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Reverse_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Reverse_Sentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Split_Emails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Arrays_Split_Sentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Assessment_Test3_ReverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Assessment_Test3_StatusCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Assessment_Test_4_IsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/BuildARoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/BurgerOrChicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/CaffeineOverDose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Car_Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Cats_Dogs_Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Citizens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/ConditionalStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Email2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Email_1_076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Extract_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/FindMidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/FindUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Find_Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/For_Loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/For_Loop_CountDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/For_Loop_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/For_Loops_Vowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Front_Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/GiftCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Group_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Group_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Group_Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Has_A_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/HttpStatusCodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/IfStatement_Black_Jack_Keep_Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/IfStatement_Burger_Or_Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/IsPos_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/LaptopConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/LoopDivide3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Loop_0_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Loop_Calculate_SumOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Loop_Draw_Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Loop_Draw_Rect_Outline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Loops_EvenFrom80_To_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Medhods_Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Merge_String_178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Merge_Them.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/MethodWReturn8_ValidateTask175.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Method_15_UniqueWords160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Method_7_Plus_Minus_152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Method_With_Return1_163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Methods5_SimplePrintPattern150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Methods8_Split_Person_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/MethodsWString11_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/MethodsWString13_FindErrorString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/MethodsWString_ExtractNumberFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Methods_6_Signum_151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Methods_TimeConversion_157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/MiddleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/MiddleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/OnlineBookMerchants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Parse_HTML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/PatientInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/PhoneNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Primitives_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/PrintHalfTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/PrintTheLongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/PrintVariables_1_2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Print_First_And_Last_Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Print_Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Print_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/QuizQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Real_Estate_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Replit_203_204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/ReverseIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/SchoolGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/SecondsConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/ShoppingList_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Simple_Calculator_Methods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Slice_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/SmsMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/StringCharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/StringIndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/StringNoEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/String_NoEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/String_SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Switch_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Tip_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/VehicleRecall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Verify_Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/VideoGames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/WeekDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/WhithoutX_x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/WordCount_181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Zombie_Attack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/Zombie_Attack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/arrays_Count_Evens_116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/average_Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/countJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/count_Hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/equals_Java_Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/get_Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/prefix_Again_99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/printVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/repeated_Separator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/utopianTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Replit_Practices/src/vehicleRecalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/Self_Practices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/ArraysWithHasanA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/CalculateTheGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/CalculateWithNestedIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Cities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/CompanyInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/ComparisonOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/DataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/EmployeeInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/First_Interview.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/FiveInOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/FrequencyPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Group_Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/IfElseStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/IncrementDecrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/IndividualPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/LogicalOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Methods_FreeShots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Positive_Zero_Negative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Post_Vs_Pre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/ReadInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/ShortHandOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Tasks_Pre_Vs_Post_Inc_Dec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/TellMeAboutYourself.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/TypeCasting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUpTask_6_23And24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_07_10_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_07_11_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_07_14_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_07_20_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_6_30_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_7_06_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_7_07_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_7_18_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WarmUp_7_4_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/Warm_Up_Jun14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/WhatILearned.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/incDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/overLoading_Names.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/relationalOperatorPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/something.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/warmUP_07_22_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/SelfPractices_Summer_B20/warmUp_07_21_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/Arrays_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/Do_While_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/For_Each_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/For_Loops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/IfElseStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/IfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/NestedIfStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/NestedLoopPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/Nested_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/SortingArray_BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/StringObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/While_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/While_Loop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/multi_Else_If_Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/ShortReviewVideos/switchStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/Array_Prac1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/CodingBat1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/InterviewQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/Multi_Dimensional_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/W_3_SchoolsLoops_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/W_3_SchoolsPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/W_3_Schools_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/Specials_Exceptions_Advanced/group_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/out/production/Self_Practices/WarmUp_7_08_2020.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/ArraysWithHasanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/CalculateTheGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/CalculateWithNestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Cities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/CompanyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/ComparisonOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/First_Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/FiveInOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/FrequencyPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Group_Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/IndividualPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Methods_FreeShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Positive_Zero_Negative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Post_Vs_Pre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/ReadInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/ShortHandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Tasks_Pre_Vs_Post_Inc_Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/TellMeAboutYourself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUpTask_6_23And24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_07_10_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_07_11_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_07_14_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_07_20_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_6_30_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_7_06_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_7_07_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_7_18_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WarmUp_7_4_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/Warm_Up_Jun14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/WhatILearned.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/incDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/overLoading_Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/relationalOperatorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/something.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/warmUP_07_22_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/SelfPractices_Summer_B20/warmUp_07_21_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/Arrays_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/Do_While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/For_Each_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/For_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/IfElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/NestedIfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/NestedLoopPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/Nested_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/SortingArray_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/StringObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/While_Loop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/multi_Else_If_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/ShortReviewVideos/switchStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/Array_Prac1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/CodingBat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/Multi_Dimensional_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/W_3_SchoolsLoops_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/W_3_SchoolsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/W_3_Schools_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/Specials_Exceptions_Advanced/group_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Self_Practices/src/WarmUp_7_08_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/String.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/out/production/String/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/Summer2020_B20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day10_IfStatements/Character_Identify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day10_IfStatements/GradeCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day10_IfStatements/MultiBranches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/DaysInMonth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/DaysInMonths2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/NestedIf_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/Nested_If_Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/Nested_If_Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/NumberToWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/Ternary_Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day11_NestedIf_Ternary/Ternary_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/AgeGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/BiggerNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/DaysInMonths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/SumOfNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/Switch_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/UserInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day12_Switch_Scanner/UserInput_Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/Browsers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/Next_Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/Next_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/SalaryAfterTax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/ScannerMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/Scanner_NexLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/Scanner_Next.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day13_Scanner/nextMethod_Vs_NextLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day14_Recap/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day14_Recap/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day14_Recap/NextLine_Vs_Rest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day14_Recap/ScannerMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day14_Recap/Scanner_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/Practice_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/Practice_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/Practice_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/String_Intro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/String_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/String_Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day15_String/SubString_Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/CheckWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/Day16_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/EqualWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/FirstLAstChars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/IgnoreCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/IsEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/String_Method2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day16_String/String_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day17_String_Review/Pool_Vs_Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day17_String_Review/String_Method2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day17_String_Review/String_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day18_ForLoop/EmailDomain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day18_ForLoop/For_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day18_ForLoop/Initials.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day18_ForLoop/Reverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/BreakStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/Characters_A_Z.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/CombineTwoStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/ContinueStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/Finra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/LoopsWithoutCurlyBraces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/OddAndEvenWithContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/OddEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/PalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/ReverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/SumOfEvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day19_ForLoop/SumOfNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/BranchingStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/FactorialNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/UntilNegative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/WhileLoop_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/WhileLoop_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day20_While_Loop/WhileLoop_Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day21_Loops/Divide_2_Num_WoutOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day21_Loops/DoWhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day21_Loops/DoWhile_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day21_Loops/MaxNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day21_Loops/MinNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day21_Loops/Min_And_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/Credentials.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/NestedLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/NestedLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/NestedLoop3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/NestedLoop4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/OccuranceOfChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day22_NestedLoop/Upper_Lower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/Array_students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/CybertekInn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/Days.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/FrequencyOfChars_InterView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/Min_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/Months.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day23_Arrays/ShoppingList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/Arrays_Utility_Classes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/Average.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/ForEachLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/Min_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/String_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/UniqueNumbers2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/UniqueWords2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/Unique_Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/Uniques.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/Uniques2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day24_Arrays/UniquesWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/Array_1_100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/CombineTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/Count_Odd_Even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/FirstThreeChars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/LongestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/Shortest_Stirng2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day25_Java_Practices/Shortest_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day26_Multi_Dimensional_Arrays/Java_Python.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day26_Multi_Dimensional_Arrays/MultiD_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day26_Multi_Dimensional_Arrays/Multi_D_Array_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day26_Multi_Dimensional_Arrays/SortDescending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day27_Recap/Arrays_Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day27_Recap/Arrays_Utilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day27_Recap/ForEachLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/ArraysShortQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/Email.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/FrequencyOfWord_Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/Frequency_Of_Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/Frequency_Of_Word2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/Loop_ShortQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/MultiArrays_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/MultiDimensionalArray_Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/MultiDimensionalArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day28_Recaps/MultiDimensionalArrays_Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Eligibility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Max_Min.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Method_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Method_Without_Parameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/MethodsWithoutParameter2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Methods_With_Parameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/PalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Return_Keyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Reversed_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/UniqueElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day29_Custom_Methods/Uniques.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day30_Custom_Method/Method_Calls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day30_Custom_Method/Recap_On_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day30_Custom_Method/ReturnMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day30_Custom_Method/Return_Method2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day30_Custom_Method/Return_Methods4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day30_Custom_Method/WarmUp_Tasks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/BirthDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Dates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/FormatDecimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Overloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Practice1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/SortDescending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/TimeFormatting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Times.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day33_LocalDateTime/Uniques.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/List_Intro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/List_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/List_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/MethodsCalls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/WarmUp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/WrapperClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/WrapperClass_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/WrapperClass_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day34_WrapperClasses/WrapperClass_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day35_ArrayList/ArrayList_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day35_ArrayList/Combine2StringArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day35_ArrayList/Reverse_Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day35_ArrayList/SumOfDigits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day35_ArrayList/SumOfDigits2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/ArrayList_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/Collection_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/Collections_Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/Set_Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/Task_To_Be_Deleted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/Unique2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day36_ArrayList/Uniques.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/BulkOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/BulkOperations_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/CollectionUtility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/Duplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/FrequencyOfChars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/Lambda_Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/Remove_Digits_Letters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Day37_ArrayList/Uniques.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Library/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_06_23_2020/IfStatement_Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_06_24_2020/Switch_ShortQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_06_24_2020/ToBeDeleted.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_01_2020/CombineTwoStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_08_2020/MinAndMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_08_2020/Min_Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_13_2020/FrequencyOfChars1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_14_2020/Unique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_14_2020/Unique_Numbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_14_2020/Unique_Words.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_15_2020/Frequency_Of_Words.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_15_2020/Frequency_Of_Words2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_20_2020/Max_2DArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_20_2020/Max_2DArray_3_mix_Loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_20_2020/Max_2D_Array_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_20_2020/Max_3DArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_21_2020/array_Desc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_21_2020/arrays_Desc2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_21_2020/arrays_Desc3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_27_2020/Combine2Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_27_2020/Combine2Arrays3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_27_2020/Combine2StringArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_27_2020/CombineTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_07_28_2020/Method_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_6_17_2020/LogicalOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_6_17_2020/Post_VS_Pre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_6_30_2020/Else_If_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_6_30_2020/If_Practices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_6_30_2020/Nested_If_PreCond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_7_07_2020/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/Office_Hours/Practice_7_07_2020/StringReversed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day01_printStatement/Testing2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day02_printStatements/GasReceipt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day02_printStatements/HelloCybertek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day02_printStatements/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day02_printStatements/PrintExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day02_printStatements/ShortCuts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day02_printStatements/classmates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/Diamond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/EmployeeInfo_Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/EscapeSequences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/Print_Vs_Println.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/SalaryCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/Variables_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day03_Sequences_Variable/WeightConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/CarInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/Concate_Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/Variables2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/Variables3_String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/Variables_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day04_Variables/variables_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day05AritmeticOperators/ArithmeticOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day05AritmeticOperators/EmployeeInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day05AritmeticOperators/EmployeeInfo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day06_ComparisonOperators/RelationalOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day06_ComparisonOperators/SalaryCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day06_ComparisonOperators/Swap1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day06_ComparisonOperators/Swap2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day06_ComparisonOperators/implicit_explicit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/Divisible_2_3_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/Post_Vs_Pre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/Quiz_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/ShortHand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/Unary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day07_Unary_ShortHand/positive_zero_negative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/GallonsToLiters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/IfStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/Logical.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/OddOrEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/PostAndPre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/Practice3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/Practice4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day08_LogicalOperators/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Alcohol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Breaks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Buy_Alcohol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Max_Median_Min.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Median.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Minimum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Odd_Even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day09_IfStatement/Vote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day0_printStatement/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day31_Recap/FrequencyOfCharacters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day31_Recap/Methods_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day31_Recap/WarmUp_Tasks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day31_Recap/methods_Practice2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day32_Method_OverLoading/AddElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day32_Method_OverLoading/calculation_Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day32_Method_OverLoading/format_FullName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day32_Method_OverLoading/method_Calls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day32_Method_OverLoading/method_OverLoading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day32_Method_OverLoading/method_OverLoading2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day38_JavaRecap/ArrayList_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day38_JavaRecap/Collection_Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/out/production/Summer2020_B20/day38_JavaRecap/GradeReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day10_IfStatements/Character_Identify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day10_IfStatements/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day10_IfStatements/MultiBranches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/DaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/DaysInMonths2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/NestedIf_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/Nested_If_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/Nested_If_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/NumberToWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/Ternary_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day11_NestedIf_Ternary/Ternary_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/AgeGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/BiggerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/DaysInMonths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/Switch_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day12_Switch_Scanner/UserInput_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/Browsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/Next_Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/Next_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/SalaryAfterTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/ScannerMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/Scanner_NexLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/Scanner_Next.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day13_Scanner/nextMethod_Vs_NextLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day14_Recap/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day14_Recap/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day14_Recap/NextLine_Vs_Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day14_Recap/ScannerMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day14_Recap/Scanner_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/Practice_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/Practice_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/Practice_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/String_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/String_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/String_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day15_String/SubString_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/CheckWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/Day16_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/EqualWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/FirstLAstChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/IgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/IsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/String_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day16_String/String_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day17_String_Review/Pool_Vs_Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day17_String_Review/String_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day17_String_Review/String_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day18_ForLoop/EmailDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day18_ForLoop/For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day18_ForLoop/Initials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day18_ForLoop/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/Characters_A_Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/CombineTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/Finra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/LoopsWithoutCurlyBraces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/OddAndEvenWithContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/SumOfEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day19_ForLoop/SumOfNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/BranchingStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/UntilNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/WhileLoop_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/WhileLoop_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day20_While_Loop/WhileLoop_Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day21_Loops/Divide_2_Num_WoutOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day21_Loops/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day21_Loops/DoWhile_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day21_Loops/MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day21_Loops/MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day21_Loops/Min_And_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/Credentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/NestedLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/NestedLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/NestedLoop4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/OccuranceOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day22_NestedLoop/Upper_Lower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/Array_students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/CybertekInn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/FrequencyOfChars_InterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/Min_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day23_Arrays/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/Arrays_Utility_Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/Min_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/String_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/UniqueNumbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/UniqueWords2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/Unique_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/Uniques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day24_Arrays/UniquesWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/Array_1_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/CombineTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/Count_Odd_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/FirstThreeChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/LongestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/Shortest_Stirng2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day25_Java_Practices/Shortest_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day26_Multi_Dimensional_Arrays/Java_Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day26_Multi_Dimensional_Arrays/MultiD_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day26_Multi_Dimensional_Arrays/Multi_D_Array_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day26_Multi_Dimensional_Arrays/SortDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day27_Recap/Arrays_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day27_Recap/Arrays_Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day27_Recap/ForEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/ArraysShortQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/FrequencyOfWord_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/Frequency_Of_Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/Frequency_Of_Word2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/Loop_ShortQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/MultiArrays_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/MultiDimensionalArray_Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/MultiDimensionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day28_Recaps/MultiDimensionalArrays_Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Eligibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Max_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Method_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Method_Without_Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/MethodsWithoutParameter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Methods_With_Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Return_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Reversed_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/UniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day29_Custom_Methods/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day30_Custom_Method/Method_Calls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day30_Custom_Method/Recap_On_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day30_Custom_Method/ReturnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day30_Custom_Method/Return_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day30_Custom_Method/Return_Methods4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day30_Custom_Method/WarmUp_Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/BirthDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/FormatDecimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/SortDescending.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/TimeFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day33_LocalDateTime/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/List_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/List_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/List_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/MethodsCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/WarmUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/WrapperClass_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/WrapperClass_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day34_WrapperClasses/WrapperClass_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day35_ArrayList/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day35_ArrayList/Combine2StringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day35_ArrayList/Reverse_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day35_ArrayList/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day35_ArrayList/SumOfDigits2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/Collection_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/Collections_Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/Set_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/Task_To_Be_Deleted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/Unique2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day36_ArrayList/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/BulkOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/BulkOperations_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/CollectionUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/FrequencyOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/Lambda_Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/Remove_Digits_Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Day37_ArrayList/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Library/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_06_23_2020/IfStatement_Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_06_24_2020/Switch_ShortQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_06_24_2020/ToBeDeleted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_01_2020/CombineTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_08_2020/MinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_08_2020/Min_Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_13_2020/FrequencyOfChars1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_14_2020/Unique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_14_2020/Unique_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_14_2020/Unique_Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_15_2020/Frequency_Of_Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_15_2020/Frequency_Of_Words2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_20_2020/Max_2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_20_2020/Max_2DArray_3_mix_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_20_2020/Max_2D_Array_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_20_2020/Max_3DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_21_2020/array_Desc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_21_2020/arrays_Desc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_21_2020/arrays_Desc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_27_2020/Combine2Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_27_2020/Combine2Arrays3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_27_2020/Combine2StringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_27_2020/CombineTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_07_28_2020/Method_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_6_17_2020/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_6_17_2020/Post_VS_Pre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_6_30_2020/Else_If_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_6_30_2020/If_Practices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_6_30_2020/Nested_If_PreCond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_7_07_2020/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/Office_Hours/Practice_7_07_2020/StringReversed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day01_printStatement/Testing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day02_printStatements/GasReceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day02_printStatements/HelloCybertek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day02_printStatements/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day02_printStatements/PrintExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day02_printStatements/ShortCuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day02_printStatements/classmates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/EmployeeInfo_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/EscapeSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/Print_Vs_Println.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/SalaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/Variables_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day03_Sequences_Variable/WeightConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/CarInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/Concate_Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/Variables2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/Variables3_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/Variables_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day04_Variables/variables_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day05AritmeticOperators/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day05AritmeticOperators/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day05AritmeticOperators/EmployeeInfo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day06_ComparisonOperators/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day06_ComparisonOperators/SalaryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day06_ComparisonOperators/Swap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day06_ComparisonOperators/Swap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day06_ComparisonOperators/implicit_explicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/Divisible_2_3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/Post_Vs_Pre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/Quiz_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/ShortHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/Unary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day07_Unary_ShortHand/positive_zero_negative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/GallonsToLiters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/Logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/OddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/PostAndPre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day08_LogicalOperators/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Alcohol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Breaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Buy_Alcohol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Max_Median_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Odd_Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day09_IfStatement/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day0_printStatement/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day31_Recap/FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day31_Recap/Methods_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day31_Recap/WarmUp_Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day31_Recap/methods_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day32_Method_OverLoading/AddElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day32_Method_OverLoading/calculation_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day32_Method_OverLoading/format_FullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day32_Method_OverLoading/method_Calls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day32_Method_OverLoading/method_OverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day32_Method_OverLoading/method_OverLoading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day38_JavaRecap/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day38_JavaRecap/Collection_Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20/src/day38_JavaRecap/GradeReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Summer2020_B20_git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrittingTestJava/.idea/WrittingTestJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrittingTestJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WrittingTestJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfirst project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/AritmeticTestWages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/AssignmentTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/AverageScore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CP_4_1_b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CP_4_1_c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CP_4_1_d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CP_4_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CP_4_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CharCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CheckPoint3_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CheckPoint3_5_Division.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CheckPointQ3_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CheckTemperature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Checkpoint3_23_c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CheckpointQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Checkpoint_3_23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Checkpoint_3_23_b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Checkpoint_3_23_d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CircuitBoardProfit_JOptionPane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Columns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Conversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Cp_4_1_a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/CurrencyFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Discount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/DoWhileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/FS_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/FinalKeyword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/ForLoopHw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/ForLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/ForTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/FormattedString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Gassreceipt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/IncrementDecrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/InputProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/IntegerVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/LeftJustified.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Letters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Letters2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Literals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/LoanQualifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/LogicalAndJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/META-INF/myfirst project.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/MaleAndFemalePercentages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/MilesPerGallon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/MultipleNestedDecisionStructure_TestScores.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/MyFirstCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/NamesDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Payroll.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/PayrollDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/PetFood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/ProgrammingChallenges.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Sale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/ScorePoints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/SecretWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/SimpleFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/SpeedConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/Squares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/StringCompareTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/StringComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/StringManipulator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/SunFacts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/SwitchDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TemperatureControl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TestAverage1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TestConditionalOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TestMathLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TestResults.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TestStructure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TestVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TotalSales.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/TrueFalse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/UserSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/WhileLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/anotherfile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/smilyface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/myfirst project/wordGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AritmeticTestWages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AverageScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP_4_1_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP_4_1_c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP_4_1_d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP_4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CP_4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckPoint3_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckPoint3_5_Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckPointQ3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Checkpoint3_23_c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckpointQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Checkpoint_3_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Checkpoint_3_23_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Checkpoint_3_23_d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CircuitBoardProfit_JOptionPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Columns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cp_4_1_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FS_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopHw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormattedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gassreceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeftJustified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Letters2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoanQualifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicalAndJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaleAndFemalePercentages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MilesPerGallon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultipleNestedDecisionStructure_TestScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamesDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PayrollDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PetFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgrammingChallenges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScorePoint_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScorePoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecretWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SunFacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemperatureControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestAverage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestMathLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalSales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrueFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anotherfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myfirstcalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smilyface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wordGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WMrSCTE19v2N3NUyhAUuTCKqJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.ScorePoints">
+    <configuration name="ForLoopHw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopHw" />
+      <module name="myfirst project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScorePoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScorePoints" />
+      <module name="myfirst project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpeedConverter" />
+      <module name="myfirst project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalSales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalSales" />
+      <module name="myfirst project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserSquares" />
+      <module name="myfirst project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScorePoints" />
+        <item itemvalue="Application.TotalSales" />
+        <item itemvalue="Application.ForLoopHw" />
+        <item itemvalue="Application.SpeedConverter" />
+        <item itemvalue="Application.UserSquares" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d38d726e-1f37-4ad8-b99e-5973004f3316" name="Default Changelist" comment="" />
+      <created>1578970302006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578970302006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1228" height="254" key="GridCell.Tab.0.bottom" timestamp="1595024608930">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1228" height="150" key="GridCell.Tab.0.bottom/0.23.1280.697/1280.23.1920.1057@0.23.1280.697" timestamp="1592247242010" />
+    <state width="1228" height="150" key="GridCell.Tab.0.bottom/0.23.1280.700/1280.23.1920.1057@0.23.1280.700" timestamp="1592248596407" />
+    <state width="1228" height="157" key="GridCell.Tab.0.bottom/0.23.1280.706/1280.23.1920.1057@0.23.1280.706" timestamp="1592412546456" />
+    <state width="1228" height="157" key="GridCell.Tab.0.bottom/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1592412850032" />
+    <state width="1228" height="157" key="GridCell.Tab.0.bottom/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817691" />
+    <state width="1228" height="157" key="GridCell.Tab.0.bottom/0.23.1280.713/1280.23.1920.1057@0.23.1280.713" timestamp="1592317559532" />
+    <state width="1228" height="153" key="GridCell.Tab.0.bottom/0.23.1280.715/1280.23.1920.1057@0.23.1280.715" timestamp="1591829133537" />
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom/0.23.1280.716/1280.23.1920.1057@0.23.1280.716" timestamp="1590910717173" />
+    <state width="1228" height="172" key="GridCell.Tab.0.bottom/0.23.1280.721/1280.23.1920.1057@0.23.1280.721" timestamp="1591369474249" />
+    <state width="1228" height="171" key="GridCell.Tab.0.bottom/0.23.1280.723/1280.23.1920.1057@0.23.1280.723" timestamp="1591536177949" />
+    <state width="1228" height="157" key="GridCell.Tab.0.bottom/0.23.1280.724/1280.23.1920.1057@0.23.1280.724" timestamp="1592756419289" />
+    <state width="1228" height="160" key="GridCell.Tab.0.bottom/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1592057064734" />
+    <state width="1228" height="254" key="GridCell.Tab.0.bottom/0.23.1280.728/1280.23.1920.1057@0.23.1280.728" timestamp="1595024608930" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.729/1280.23.1920.1057@0.23.1280.729" timestamp="1590837925841" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.730/1280.23.1920.1057@0.23.1280.730" timestamp="1590791694734" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.732/1280.23.1920.1057@0.23.1280.732" timestamp="1590803885059" />
+    <state width="1228" height="230" key="GridCell.Tab.0.bottom/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1594001244189" />
+    <state width="1228" height="230" key="GridCell.Tab.0.bottom/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1594001198366" />
+    <state width="1228" height="153" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591801113010" />
+    <state width="1228" height="153" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.977@0.23.1280.777" timestamp="1591822673132" />
+    <state width="1228" height="192" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.982@0.23.1280.777" timestamp="1591222281636" />
+    <state width="1228" height="192" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591221973221" />
+    <state width="1228" height="192" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1591284660655" />
+    <state width="1228" height="254" key="GridCell.Tab.0.center" timestamp="1595024608929">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1228" height="150" key="GridCell.Tab.0.center/0.23.1280.697/1280.23.1920.1057@0.23.1280.697" timestamp="1592247242006" />
+    <state width="1228" height="150" key="GridCell.Tab.0.center/0.23.1280.700/1280.23.1920.1057@0.23.1280.700" timestamp="1592248596405" />
+    <state width="1228" height="157" key="GridCell.Tab.0.center/0.23.1280.706/1280.23.1920.1057@0.23.1280.706" timestamp="1592412546451" />
+    <state width="1228" height="157" key="GridCell.Tab.0.center/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1592412850031" />
+    <state width="1228" height="157" key="GridCell.Tab.0.center/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817691" />
+    <state width="1228" height="157" key="GridCell.Tab.0.center/0.23.1280.713/1280.23.1920.1057@0.23.1280.713" timestamp="1592317559531" />
+    <state width="1228" height="153" key="GridCell.Tab.0.center/0.23.1280.715/1280.23.1920.1057@0.23.1280.715" timestamp="1591829133536" />
+    <state width="1238" height="178" key="GridCell.Tab.0.center/0.23.1280.716/1280.23.1920.1057@0.23.1280.716" timestamp="1590910717170" />
+    <state width="1228" height="172" key="GridCell.Tab.0.center/0.23.1280.721/1280.23.1920.1057@0.23.1280.721" timestamp="1591369474248" />
+    <state width="1228" height="171" key="GridCell.Tab.0.center/0.23.1280.723/1280.23.1920.1057@0.23.1280.723" timestamp="1591536177948" />
+    <state width="1228" height="157" key="GridCell.Tab.0.center/0.23.1280.724/1280.23.1920.1057@0.23.1280.724" timestamp="1592756419289" />
+    <state width="1228" height="160" key="GridCell.Tab.0.center/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1592057064732" />
+    <state width="1228" height="254" key="GridCell.Tab.0.center/0.23.1280.728/1280.23.1920.1057@0.23.1280.728" timestamp="1595024608929" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.729/1280.23.1920.1057@0.23.1280.729" timestamp="1590837925839" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.730/1280.23.1920.1057@0.23.1280.730" timestamp="1590791694732" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.732/1280.23.1920.1057@0.23.1280.732" timestamp="1590803885058" />
+    <state width="1228" height="230" key="GridCell.Tab.0.center/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1594001244187" />
+    <state width="1228" height="230" key="GridCell.Tab.0.center/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1594001198363" />
+    <state width="1228" height="153" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591801113009" />
+    <state width="1228" height="153" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.977@0.23.1280.777" timestamp="1591822673130" />
+    <state width="1228" height="192" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.982@0.23.1280.777" timestamp="1591222281635" />
+    <state width="1228" height="192" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591221973219" />
+    <state width="1228" height="192" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1591284660655" />
+    <state width="1228" height="254" key="GridCell.Tab.0.left" timestamp="1595024608926">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1228" height="150" key="GridCell.Tab.0.left/0.23.1280.697/1280.23.1920.1057@0.23.1280.697" timestamp="1592247242005" />
+    <state width="1228" height="150" key="GridCell.Tab.0.left/0.23.1280.700/1280.23.1920.1057@0.23.1280.700" timestamp="1592248596404" />
+    <state width="1228" height="157" key="GridCell.Tab.0.left/0.23.1280.706/1280.23.1920.1057@0.23.1280.706" timestamp="1592412546450" />
+    <state width="1228" height="157" key="GridCell.Tab.0.left/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1592412850031" />
+    <state width="1228" height="157" key="GridCell.Tab.0.left/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817690" />
+    <state width="1228" height="157" key="GridCell.Tab.0.left/0.23.1280.713/1280.23.1920.1057@0.23.1280.713" timestamp="1592317559530" />
+    <state width="1228" height="153" key="GridCell.Tab.0.left/0.23.1280.715/1280.23.1920.1057@0.23.1280.715" timestamp="1591829133536" />
+    <state width="1238" height="178" key="GridCell.Tab.0.left/0.23.1280.716/1280.23.1920.1057@0.23.1280.716" timestamp="1590910717169" />
+    <state width="1228" height="172" key="GridCell.Tab.0.left/0.23.1280.721/1280.23.1920.1057@0.23.1280.721" timestamp="1591369474248" />
+    <state width="1228" height="171" key="GridCell.Tab.0.left/0.23.1280.723/1280.23.1920.1057@0.23.1280.723" timestamp="1591536177948" />
+    <state width="1228" height="157" key="GridCell.Tab.0.left/0.23.1280.724/1280.23.1920.1057@0.23.1280.724" timestamp="1592756419289" />
+    <state width="1228" height="160" key="GridCell.Tab.0.left/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1592057064731" />
+    <state width="1228" height="254" key="GridCell.Tab.0.left/0.23.1280.728/1280.23.1920.1057@0.23.1280.728" timestamp="1595024608926" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.729/1280.23.1920.1057@0.23.1280.729" timestamp="1590837925836" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.730/1280.23.1920.1057@0.23.1280.730" timestamp="1590791694731" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.732/1280.23.1920.1057@0.23.1280.732" timestamp="1590803885057" />
+    <state width="1228" height="230" key="GridCell.Tab.0.left/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1594001244186" />
+    <state width="1228" height="230" key="GridCell.Tab.0.left/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1594001198362" />
+    <state width="1228" height="153" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591801113008" />
+    <state width="1228" height="153" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.977@0.23.1280.777" timestamp="1591822673129" />
+    <state width="1228" height="192" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.982@0.23.1280.777" timestamp="1591222281634" />
+    <state width="1228" height="192" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591221973218" />
+    <state width="1228" height="192" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1591284660655" />
+    <state width="1228" height="254" key="GridCell.Tab.0.right" timestamp="1595024608930">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1228" height="150" key="GridCell.Tab.0.right/0.23.1280.697/1280.23.1920.1057@0.23.1280.697" timestamp="1592247242009" />
+    <state width="1228" height="150" key="GridCell.Tab.0.right/0.23.1280.700/1280.23.1920.1057@0.23.1280.700" timestamp="1592248596405" />
+    <state width="1228" height="157" key="GridCell.Tab.0.right/0.23.1280.706/1280.23.1920.1057@0.23.1280.706" timestamp="1592412546454" />
+    <state width="1228" height="157" key="GridCell.Tab.0.right/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1592412850032" />
+    <state width="1228" height="157" key="GridCell.Tab.0.right/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817691" />
+    <state width="1228" height="157" key="GridCell.Tab.0.right/0.23.1280.713/1280.23.1920.1057@0.23.1280.713" timestamp="1592317559531" />
+    <state width="1228" height="153" key="GridCell.Tab.0.right/0.23.1280.715/1280.23.1920.1057@0.23.1280.715" timestamp="1591829133537" />
+    <state width="1238" height="178" key="GridCell.Tab.0.right/0.23.1280.716/1280.23.1920.1057@0.23.1280.716" timestamp="1590910717171" />
+    <state width="1228" height="172" key="GridCell.Tab.0.right/0.23.1280.721/1280.23.1920.1057@0.23.1280.721" timestamp="1591369474249" />
+    <state width="1228" height="171" key="GridCell.Tab.0.right/0.23.1280.723/1280.23.1920.1057@0.23.1280.723" timestamp="1591536177949" />
+    <state width="1228" height="157" key="GridCell.Tab.0.right/0.23.1280.724/1280.23.1920.1057@0.23.1280.724" timestamp="1592756419289" />
+    <state width="1228" height="160" key="GridCell.Tab.0.right/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1592057064733" />
+    <state width="1228" height="254" key="GridCell.Tab.0.right/0.23.1280.728/1280.23.1920.1057@0.23.1280.728" timestamp="1595024608930" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.729/1280.23.1920.1057@0.23.1280.729" timestamp="1590837925840" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.730/1280.23.1920.1057@0.23.1280.730" timestamp="1590791694733" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.732/1280.23.1920.1057@0.23.1280.732" timestamp="1590803885059" />
+    <state width="1228" height="230" key="GridCell.Tab.0.right/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1594001244188" />
+    <state width="1228" height="230" key="GridCell.Tab.0.right/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1594001198365" />
+    <state width="1228" height="153" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1591801113010" />
+    <state width="1228" height="153" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.977@0.23.1280.777" timestamp="1591822673131" />
+    <state width="1228" height="192" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.982@0.23.1280.777" timestamp="1591222281635" />
+    <state width="1228" height="192" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591221973220" />
+    <state width="1228" height="192" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1591284660655" />
+    <state width="1228" height="161" key="GridCell.Tab.1.bottom" timestamp="1593958249810">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1228" height="198" key="GridCell.Tab.1.bottom/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817672" />
+    <state width="1228" height="202" key="GridCell.Tab.1.bottom/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1591125099505" />
+    <state width="1228" height="161" key="GridCell.Tab.1.bottom/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1593955677269" />
+    <state width="1228" height="161" key="GridCell.Tab.1.bottom/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1593958249810" />
+    <state width="1228" height="202" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591137252061" />
+    <state width="1228" height="161" key="GridCell.Tab.1.center" timestamp="1593958249808">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1228" height="198" key="GridCell.Tab.1.center/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817671" />
+    <state width="1228" height="202" key="GridCell.Tab.1.center/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1591125099503" />
+    <state width="1228" height="161" key="GridCell.Tab.1.center/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1593955677267" />
+    <state width="1228" height="161" key="GridCell.Tab.1.center/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1593958249808" />
+    <state width="1228" height="202" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591137252060" />
+    <state width="1228" height="161" key="GridCell.Tab.1.left" timestamp="1593958249807">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1228" height="198" key="GridCell.Tab.1.left/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817671" />
+    <state width="1228" height="202" key="GridCell.Tab.1.left/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1591125099503" />
+    <state width="1228" height="161" key="GridCell.Tab.1.left/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1593955677266" />
+    <state width="1228" height="161" key="GridCell.Tab.1.left/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1593958249807" />
+    <state width="1228" height="202" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591137252059" />
+    <state width="1228" height="161" key="GridCell.Tab.1.right" timestamp="1593958249809">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state width="1228" height="198" key="GridCell.Tab.1.right/0.23.1280.710/1280.23.1920.1057@0.23.1280.710" timestamp="1592345817672" />
+    <state width="1228" height="202" key="GridCell.Tab.1.right/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1591125099504" />
+    <state width="1228" height="161" key="GridCell.Tab.1.right/0.23.1280.736/1280.23.1920.1057@0.23.1280.736" timestamp="1593955677268" />
+    <state width="1228" height="161" key="GridCell.Tab.1.right/0.23.1280.737/1280.23.1920.1057@0.23.1280.737" timestamp="1593958249809" />
+    <state width="1228" height="202" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.1920.984@0.23.1280.777" timestamp="1591137252061" />
+    <state x="149" y="26" key="SettingsEditor" timestamp="1590761156869">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="149" y="26" key="SettingsEditor/0.23.1280.729/1280.23.1920.1057@0.23.1280.729" timestamp="1590761156869" />
+    <state x="271" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1592242375039">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state x="271" y="169" key="com.intellij.ide.util.TipDialog/0.23.1280.697/1280.23.1920.1057@0.23.1280.697" timestamp="1592242375039" />
+    <state x="271" y="171" key="com.intellij.ide.util.TipDialog/0.23.1280.708/1280.23.1920.1057@0.23.1280.708" timestamp="1591786851408" />
+    <state x="271" y="174" key="com.intellij.ide.util.TipDialog/0.23.1280.726/1280.23.1920.1057@0.23.1280.726" timestamp="1591500592115" />
+    <state x="271" y="185" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.977@0.23.1280.777" timestamp="1591700921973" />
+  </component>
+</project>

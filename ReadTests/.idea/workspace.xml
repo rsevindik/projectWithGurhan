@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf7e84b-55e0-4c54-ba8d-18bddff20257" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xdy1LHhuNwrAS01yOu5bZRKiqB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ReadFirstLine">
+    <configuration name="FileReadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReadDemo" />
+      <module name="ReadTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFirstLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadFirstLine" />
+      <module name="ReadTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadFirstLine" />
+        <item itemvalue="Application.FileReadDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf7e84b-55e0-4c54-ba8d-18bddff20257" name="Default Changelist" comment="" />
+      <created>1581390049046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581390049046</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1581392523458">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1581392523458" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1581391604986" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1581392523458">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1581392523458" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1581391604984" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1581392523457">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1581392523457" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1581391604981" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1581392523458">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1581392523458" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.989@0.23.1280.777" timestamp="1581391604985" />
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1587868065274">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1587868065274" />
+  </component>
+</project>
