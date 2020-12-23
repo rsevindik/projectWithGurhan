@@ -6,7 +6,7 @@ public class ComplexJsonParse {
         //TODO Auto-generate method stub
 
         JsonPath js = new JsonPath(Payload.coursePrice()); //mocking this api coz it's not in our environment yet
-        // (while we are waiting for dev just complete testing with dummy variables thn switch them with real api.
+        // (while we are waiting for dev just complete testing with dummy variables then switch them with real api.
 
 //        1. Print No of courses returned by API
         int count = js.getInt("courses.size()");
@@ -37,9 +37,6 @@ public class ComplexJsonParse {
                 break;                                            // important for leaving the loop ones we found the specified object
             }
         }
-
-//        6. Verify if Sum of all Course prices matches with Purchase Amount
-
-        }
     }
+}
 
