@@ -1,11 +1,17 @@
 package SelfPractices_Summer_B20.Interview_Questions;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Stack;
+
 public class Practice_With_Saim2 {
     public static void main(String[] args) {
 //        System.out.println("isNumberPalindrome(12345) = " + isNumberPalindrome(12345));
 //        System.out.println("isNumberPalindrome(1234321) = " + isNumberPalindrome(1234321));
-       // fibonacci(8);
-        System.out.println("fibonacci2(8) = " + fibonacci2(8));
+        // fibonacci(8);
+      //  System.out.println("fibonacci2(8) = " + fibonacci2(8));
+        System.out.println("isBalanced(\" [ { } ) ]\") = " + isBalanced("[({})]"));
+        // be careful about spaces must be the same as String open = "{[(";
     }
 
     public static boolean isNumberPalindrome(long number) {
@@ -47,7 +53,46 @@ public class Practice_With_Saim2 {
         return fibonacci2(n - 1) + fibonacci2(n - 2);
     }
 
+    //balancing brackets { ( [  opening and closing
+    public static boolean isBalanced(String str) {
+        String open = "{[(";      // does not matter if there is space or not
 
+        Stack<Character> stack = new Stack<>(); // LIFO
+        Map<Character, Character> map = new HashMap<>();
+        map.put('[', ']');
+        map.put('{', '}');
+        map.put('(', ')');
+
+        for (int i = 0; i < str.length(); i++) {
+            if(str.length()%2!=0){
+                return false;
+            }
+            if (open.contains("" + str.charAt(i))) {
+                // this char is one of the opening brackets
+                stack.push(str.charAt(i));
+
+            } else {
+                // this char is one of the closing brackets
+                if (stack.isEmpty() || str.charAt(i) != map.get(stack.pop())) {  // will check if ] == ]
+                    // will check if ) == )
+                    // will check if } == }
+                    return false;
+                }
+            }
+        }
+
+        /*
+        stack
+                [
+                (
+                {
+         */
+                return stack.isEmpty();
+    }
 }
+
+
+
+
 
 
