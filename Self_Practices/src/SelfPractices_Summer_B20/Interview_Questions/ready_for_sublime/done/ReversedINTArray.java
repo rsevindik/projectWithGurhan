@@ -1,4 +1,4 @@
-package SelfPractices_Summer_B20.Interview_Questions.ready_for_sublime;
+package SelfPractices_Summer_B20.Interview_Questions.ready_for_sublime.done;
 
 import java.util.Arrays;
 
@@ -9,7 +9,7 @@ public class ReversedINTArray {
             reverse(array);
             System.out.println("reverse array is: " + Arrays.toString(array));
         }
-        private static void reverse(int[] array) {
+        static void reverse(int[] array) {
             int maxIndex = array.length - 1;
             int halflength = array.length / 2;
             for (int i = 0; i < halflength; i++) {
