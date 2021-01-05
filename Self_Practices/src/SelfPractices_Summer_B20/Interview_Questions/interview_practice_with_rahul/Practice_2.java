@@ -95,18 +95,18 @@ public class Practice_2 {
     }
 
     public static int occurenceOfCharInStr(String str, char ch){
-
-        ArrayList<String> list = new ArrayList<>();
-        list.addAll(Arrays.asList(str.split("")));
-        int occurrence = Collections.frequency(list, ch);
-
-
-        /*int count = 0;
+        int count = 0;
         for (int i = 0; i < str.length(); i++) {
             if(str.charAt(i) == ch){
                 count++;
             }
         }
-        return count;*/
+        return count;
+        /*
+        ArrayList<String> list = new ArrayList<>();
+        list.addAll(Arrays.asList(str.split("")));
+        int occurrence = Collections.frequency(list, ch);
+        return occurrence;
+        */
     }
 }
